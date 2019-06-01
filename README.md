@@ -1,16 +1,15 @@
 # VideoToSMI
 Create a smi file based on the video.
 
-- Copyright (c) 2019 Lee Dong-gun
-    - Homepage : http://infolab.kunsan.ac.kr
+- Copyright (c) 2019 [InfoLab](http://infolab.kunsan.ac.kr) ([Donggun LEE](http://duration.digimoon.net))
 - How to install
     ```bash
-    pip install "http://duration.digimoon.net/pip/videotosmi.whl"
+    pip install VideoToSMI
     ```
     - other version
         ```bash
         # 0.0.1
-        pip install "http://duration.digimoon.net/pip/videotosmi-0.0.1-cp36-none-any.whl"
+        pip install VideoToSMI==0.0.1
         ```
 - Functions
     ```python

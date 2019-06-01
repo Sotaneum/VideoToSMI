@@ -9,5 +9,6 @@ setup(name='videotosmi',
       description='Create a smi file based on the video.',
       packages=find_packages(exclude=['tests']),
       long_description=open('README.md').read(),
+      long_description_content_type='text/markdown',
       zip_safe=False,
-      setup_requires=['deepgeo==0.0.2','scipy','opencv-python','matplotlib'])
+      setup_requires=['deepgeo==0.0.1','scipy','opencv-python','matplotlib'])
